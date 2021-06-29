@@ -75,7 +75,6 @@ sr.reveal('.contact__text', {interval: 200})
 sr.reveal('.contact__input', {delay: 400})
 sr.reveal('.contact__button', {delay: 600})
 
-<script src="//code.tidio.co/hjdrj7lt4a37sdtlgexeiqx7cr7lfpl6.js" async></script>
 
 
 
